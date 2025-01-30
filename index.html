@@ -1,22 +1,80 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Bebas+Neue&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/110b4fbc5a.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.23/dist/full.min.css" rel="stylesheet" type="text/css" />
-<script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
 
     <title>BB1-Assignment_03_Category_0001</title>
 </head>
-<body>
-    <header>
+<style>
+.adlam-display-regular {
+  font-family: "ADLaM Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sora {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+</style>
+<body class="adlam-display-regular">
+    <header class=" bg-[#FFF9F4] " >
+<!-- navbar section -->
+<div class="navbar  max-w-7xl mx-auto ">
+    <div class="navbar-start ">
+    
+      <a class="btn btn-ghost text-xl sora pl-0  "><img src="c1-assets/logo-header.png"><h3 class="hidden lg:block">Browse<span class="text-yellow-400">4</span>Pets</h3></a>
+    </div>
+    <div class="navbar-center hidden lg:flex sora">
+      <ul class="menu menu-horizontal px-1">
+        <li><a>Find a pet</a></li>
+        <li><a>Breeds</a></li>
+        <li><a>Contact us</a></li>
+      </ul>
+    </div>
+    <div class="navbar-end">
+        
+
+        <i class="fa-regular fa-bell text-2xl mr-4 hidden "></i>
+<i class="fa-solid fa-magnifying-glass text-2xl  mr-4 hidden"></i>
+      <a class="btn btn-outline btn-warning sora mr-4 lg:h-11 hidden lg:block lg:py-4 ">Login</a>
+      <a class="btn btn-warning sora lg:h-11 hidden lg:block lg:py-4 ">Register</a>
+      <div class="lg:hidden text-2xl"><i class="fa-solid fa-bars"></i></div>
+    </div>
+  </div>
 
     </header>
-    <main>
-
+    <main class="navbar max-w-7xl mx-auto ">
+<section  class=" relative bg-[url('./c1-assets/cat-big.png')] bg-bottom bg-contain h-[400px] bg-no-repeat lg:bg-contain lg:bg-center lg:bg-no-repeat lg:h-screen w-full lg:w-full">
+    <!-- banner-section -->
+<div >
+    <!-- content -->
+    <div class="absolute top-5    w-full  lg:top-7 lg:w-1/2">
+        <h1 class="lg:text-5xl text-3xl mb-4 ">Pamper Your Pet,<br> Because They Deserve<br> the Best</h1>
+        <p  class="text-base lg:text-lg text-gray-400 sora ">Discover a world of treats, toys, and essentials handpicked for<br> your furry friends. Shop now and make tails wag with joy!</p>
+        <a class="btn btn-warning sora h-11 sora mt-6 ">Find a pet</a>
+    </div>
+ </div>
+</section>
     </main>
     <footer>
 
     </footer>
 </body>
+
 </html>
