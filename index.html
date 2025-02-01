@@ -31,6 +31,12 @@
   font-style: normal;
 }
 
+@keyframes typing {
+    0% { width: 0; }
+    100% { width: 100%; }
+  }
+
+
 </style>
 <body class="adlam-display-regular">
     <!-- header -->
@@ -68,11 +74,11 @@
     <!-- banner-section -->
 <div  >
     <!-- content -->
-    <div class="absolute top-5      lg:top-7  motion-safe:animate-[bounce_2s_ease-in-out_500]   ">
+    <div class="absolute top-5      lg:top-7    ">
       
-        <h1 class="lg:text-5xl text-2xl mb-4 ">Pamper Your Pet,<br> Because They Deserve<br> the Best</h1>
+        <h1 class="lg:text-5xl text-2xl mb-4  overflow-hidden whitespace-nowrap inline-block animate-[typing_5s_steps(15)_infinite_alternate]  ">Pamper Your Pet,<br> Because They Deserve<br> the Best</h1>
         <p  class="text-lg lg:text-lg text-gray-400 sora ">Discover a world of treats, toys, and essentials handpicked for<br> your furry friends. Shop now and make tails wag with joy!</p>
-        <a class="btn btn-warning sora h-11 sora mt-6 ">Find a pet</a>
+        <a class="btn btn-warning sora h-11 sora mt-6 animate-pulse  ">Find a pet</a>
     </div>
  </div>
 </section>
