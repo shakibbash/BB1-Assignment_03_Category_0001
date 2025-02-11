@@ -12,12 +12,14 @@ Explore Pawsome Pets in action!  Below you'll find a link to the live website an
 
 ### 🔗 Live Website
 
-[Visit Pawsome Pets Live]([YOUR_LIVE_WEBSITE_LINK_HERE](https://shakibbash.github.io/BB1-Assignment_03_Category_0001/))  *(Replace with the actual live URL)*
+[Visit Pawsome Pets Live]([YOUR_LIVE_WEBSITE_LINK_HERE](https://shakibbash.github.io/BB1-Assignment_03_Category_0001/)  *(Replace with the actual live URL)*
 
-### 💻 Desktop View![Pawsome Pets Desktop Screenshot](https://i.postimg.cc/LXT0Hzbz/screenshot-1739283458804.png) 
+### 💻 Desktop View
+![Pawsome Pets Desktop Screenshot](https://i.postimg.cc/LXT0Hzbz/screenshot-1739283458804.png) 
 
 
-### 📱 Mobile View![Pawsome Pets Mobile Screenshot](https://i.postimg.cc/KvpGM2NN/i-Phone-13-PRO-127-0-0-1.png) 
+### 📱 Mobile View
+![Pawsome Pets Mobile Screenshot](https://i.postimg.cc/KvpGM2NN/i-Phone-13-PRO-127-0-0-1.png) 
 
 ## Features
 
