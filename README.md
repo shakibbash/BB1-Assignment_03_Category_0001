@@ -12,7 +12,7 @@ Explore Pawsome Pets in action!  Below you'll find a link to the live website an
 
 ### 🔗 Live Website
 
-[Visit Pawsome Pets Live]([ Pawsome Pets])(https://shakibbash.github.io/BB1-Assignment_03_Category_0001/)
+[Visit Pawsome Pets Live][ Pawsome Pets](https://shakibbash.github.io/BB1-Assignment_03_Category_0001/)
 
 ### 💻 Desktop View
 ![Pawsome Pets Desktop Screenshot](https://i.postimg.cc/LXT0Hzbz/screenshot-1739283458804.png) 
